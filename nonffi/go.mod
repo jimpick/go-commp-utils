@@ -5,16 +5,14 @@ go 1.21
 toolchain go1.22.0
 
 require (
-	github.com/filecoin-project/go-commp-utils v0.1.3
 	github.com/filecoin-project/go-fil-commcid v0.1.0
 	github.com/ipfs/go-cid v0.4.1
+	github.com/jimpick/go-commp-utils v0.1.5-0.20240415053228-9f68f6dacd4e
 	github.com/jimpick/go-state-types v0.1.11-0.20240415051156-728669c6901c
 	github.com/minio/sha256-simd v1.0.1
 )
 
 require (
-	github.com/filecoin-project/go-address v0.0.3 // indirect
-	github.com/filecoin-project/go-state-types v0.0.0-20201102161440-c8033295a1fc // indirect
 	github.com/ipfs/go-block-format v0.2.0 // indirect
 	github.com/ipfs/go-ipfs-util v0.0.3 // indirect
 	github.com/ipfs/go-ipld-cbor v0.1.0 // indirect
