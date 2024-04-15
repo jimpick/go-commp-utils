@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-commp-utils
+module github.com/jimpick/go-commp-utils
 
 go 1.17
 

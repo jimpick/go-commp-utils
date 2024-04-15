@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"math/bits"
 
-	"github.com/filecoin-project/go-commp-utils/zerocomm"
+	"github.com/jimpick/go-commp-utils/zerocomm"
 	commcid "github.com/filecoin-project/go-fil-commcid"
-	"github.com/filecoin-project/go-state-types/abi"
+	"github.com/jimpick/go-state-types/abi"
 	"github.com/ipfs/go-cid"
 	sha256simd "github.com/minio/sha256-simd"
 )
